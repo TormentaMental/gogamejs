@@ -3,7 +3,7 @@ const InterSection = require('../domain/InterSection');
 const BlackStone = require('../domain/BlackStone');
 const WhiteStone = require('../domain/WhiteStone');
 
-describe('AddStoneOnToBoardIntersectionTest.js ', () => {
+describe('AddStoneOnToBoardIntersection', () => {
 
     it('should can add a stone on to board intersection', () => {
 
